@@ -7,7 +7,7 @@
 * RMIT Racing | Powertrain Member 
 
 ## About
-This account is dedicated to my collaborative contributions for RMIT engineering projects. 
-For my personal research, R&D, and primary development, visit my main profile:
+This account is dedicated to my collaborative contributions for RMIT team projects.
+For my personal research, visit my main profile:
 
 **[github.com/wgbowley](https://github.com/wgbowley)**
