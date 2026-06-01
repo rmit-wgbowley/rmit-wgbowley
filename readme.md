@@ -4,10 +4,14 @@
 ![Simulation](https://img.shields.io/badge/Domain-Simulation-white?style=flat-square&logoColor=87CEEB)
 ![Electrics](https://img.shields.io/badge/Domain-Electrics-87CEEB?style=flat-square&logoColor=white)
 
-* RMIT Racing | Powertrain Member 
+| Role | Project / Team | Primary Focus |
+| :--- | :--- | :--- |
+| **Technical Lead** | Hercules Challenge (Pillarator) | E2E System Development |
+| **Powertrain Member** | RMIT Racing | PMSM & Supporting Systems |
+
+> [!note]
+> This account will serve as an archive of my engineering contributions during my time at RMIT University.
 
 ## About
-This account is dedicated to my collaborative contributions for RMIT team projects.
-For my personal research, visit my main profile:
-
-**[github.com/wgbowley](https://github.com/wgbowley)**
+This account is dedicated to my collaborative contributions for RMIT team projects.<br>
+For projects & research, visit my main profile: **[github.com/wgbowley](https://github.com/wgbowley)**
