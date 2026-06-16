@@ -6,8 +6,8 @@
 
 | Role | Project / Team | Primary Focus |
 | :--- | :--- | :--- |
-| **Technical Lead** | Hercules Challenge (Pillarator) | E2E System Development |
-| **Powertrain Member** | RMIT Racing | PMSM & Supporting Systems |
+| **Technical Lead** | Hercules Challenge (The Pantheon - IsoPod) | E2E System Development |
+| **Powertrain Member** | Rmit Motorsports - Racing Club | PMSM & Supporting Systems |
 
 > [!note]
 > This account will serve as an archive of my engineering contributions during my time at RMIT University.
