@@ -4,10 +4,16 @@
 ![Simulation](https://img.shields.io/badge/Domain-Simulation-white?style=flat-square&logoColor=87CEEB)
 ![Electrics](https://img.shields.io/badge/Domain-Electrics-87CEEB?style=flat-square&logoColor=white)
 
+### Current Contributions
+| Role | Project / Team | Primary Focus |
+| :--- | :--- | :--- |
+| **Powertrain Member** | Rmit Motorsports - Racing Club | PMSM & Supporting Systems |
+
+### Completed Projects / Former Roles
+
 | Role | Project / Team | Primary Focus |
 | :--- | :--- | :--- |
 | **Technical Lead** | Hercules Challenge (The Pantheon - IsoPod) | E2E System Development |
-| **Powertrain Member** | Rmit Motorsports - Racing Club | PMSM & Supporting Systems |
 
 > [!note]
 > This account will serve as an archive of my engineering contributions during my time at RMIT University.
