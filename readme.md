@@ -8,6 +8,7 @@
 | Role | Project / Team | Primary Focus |
 | :--- | :--- | :--- |
 | **Powertrain Member** | Rmit Motorsports - Racing Club | PMSM & Supporting Systems |
+| **R&D Engineer** | GEN-E Humanitarian Engineering | Prototyping & literature review |
 
 ### Completed Projects / Former Roles
 
