@@ -4,6 +4,6 @@
   <em>Axial Shake Generator: Quasi-transient simulation using PyFEA and FEMM adaptor</em>
 </p>
 
-*Primary Work: [wgbowley](https://github.com/wgbowley).*
+*Primary Work: [wgbowley](https://github.com/wgbowley)*
 
 ---
