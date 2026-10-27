@@ -4,10 +4,6 @@
   <em>Axial Shake Generator: Quasi-transient simulation using PyFEA and FEMM adaptor</em>
 </p>
 
-| Role | Project / Team | Primary Focus |
-| :--- | :--- | :--- |
-| **Electronics & Powertrain Engineer** | RMIT Motorsports — Racing Club | PMSM & Supporting Systems |
-
 *Primary Work: [wgbowley](https://github.com/wgbowley).*
 
 ---
